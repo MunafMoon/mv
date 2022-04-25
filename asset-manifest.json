@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MunafMoon/mv.git/static/css/main.93ad23ae.css",
+    "main.js": "/MunafMoon/mv.git/static/js/main.388674e4.js",
+    "index.html": "/MunafMoon/mv.git/index.html",
+    "main.93ad23ae.css.map": "/MunafMoon/mv.git/static/css/main.93ad23ae.css.map",
+    "main.388674e4.js.map": "/MunafMoon/mv.git/static/js/main.388674e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93ad23ae.css",
+    "static/js/main.388674e4.js"
+  ]
+}
